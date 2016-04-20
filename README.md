@@ -1,2 +1,2 @@
 # practical-programs
-Semester 1 practical programs
+Semester 2 practical programs
