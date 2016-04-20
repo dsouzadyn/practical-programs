@@ -35,7 +35,7 @@ int main()
 	/*
 	*	Find the maximum value in the array.
 	*/
-	for(i = 1; i <= 6; i++)
+	for(i = 1; i <= 5; i++)
 	{
 		if (ar[i] > max)
 		{
